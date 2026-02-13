@@ -137,7 +137,6 @@ All analysis, risk judgments, and conclusions are the author's own.
 ```shell
 .
 ├── doc/ – "Consulting documentation"
-├── images/ – "Diagrams and visuals"
 |   ├── 01_Engagement_Overview.md
 |   ├── 02_Instant_Payments_Architecture.md
 |   ├── 03_DORA_Control_Mapping.md
@@ -145,6 +144,7 @@ All analysis, risk judgments, and conclusions are the author's own.
 |   ├── 05_ICT_Risk_Scenarios.md
 |   ├── 06_ICT_Risk_Register.md
 |   └── 07_ICT_Risk_Remediation_Roadmap.md
+├── images/ – "Diagrams and visuals"
 ├── All_Tables.xlsx – "All tables consolidated in one file"
 ├── Executive_Pitch.pptx
 ├── Executive_Summary.md
